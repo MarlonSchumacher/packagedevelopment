@@ -18,3 +18,5 @@ Imports:
     rlang,
     methods
 RoxygenNote: 6.1.1
+URL: https://github.com/MarlonSchumacher/packagedevelopment
+BugReports: https://github.com/MarlonSchumacher/packagedevelopment/issues
