@@ -1,7 +1,4 @@
-# Merge conflicht confliccct
-# HoHoHo---
+# Merging testing and trolling
 
-# Heyhrgrefq
-# LOOOOOOOOOL
-
-dplyr::mutate(x = x44ggggggg34)
+dplyr::rename(x = x44gggffg34)
+dplyr::group_by(df, bestgroup_i_found)
