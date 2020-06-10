@@ -1,6 +1,8 @@
-# Merge conflicht confliccct
+# Merging and manipulating the trolling guy
+
+dplyr::mutate(x = x44guzzzzg34)
 
 
-# LOOOOOOOOOL
-
-dplyr::mutate(x = x44ggggggg34)
+dplyr::group_by(df, good_group)
+dplyr::group_by(df, better_group)
+dplyr::group_by(df, even_better_group)
